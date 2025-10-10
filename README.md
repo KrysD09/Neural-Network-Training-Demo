@@ -37,7 +37,7 @@ It demonstrates a **from-scratch NumPy implementation**, a **PyTorch implementat
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Neural-Network-Training-Demo.git
+git clone https://github.com/KrysD09/Neural-Network-Training-Demo.git
 cd Neural-Network-Training-Demo
 ```
 
@@ -59,8 +59,9 @@ pip install -r requirements.txt
 
 You can run the demos directly in Colab without installing anything locally:
 
-- [![Open In Colab - PyTorch](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Neural-Network-Training-Demo/blob/main/nn_training_pytorch_demo.ipynb)  
-- [![Open In Colab - Keras](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Neural-Network-Training-Demo/blob/main/nn_training_keras_demo.ipynb)
+- [![Open In Colab - NumPy](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KrysD09/Neural-Network-Training-Demo/blob/main/nn_training_demo.ipynb)  
+- [![Open In Colab - PyTorch](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KrysD09/Neural-Network-Training-Demo/blob/main/nn_training_pytorch_demo.ipynb)  
+- [![Open In Colab - Keras](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KrysD09/Neural-Network-Training-Demo/blob/main/nn_training_keras_demo.ipynb)
 
 ---
 
