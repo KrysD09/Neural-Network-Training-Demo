@@ -1,6 +1,6 @@
 # Neural Network Training Demo
 
-This repository contains three interactive Jupyter notebooks designed for a **PhD-level workshop on training neural networks**.  
+This repository contains three interactive Jupyter notebooks designed for our **PhD-level Advanced Analytics workshop on training neural networks**.  
 It demonstrates a **from-scratch NumPy implementation**, a **PyTorch implementation**, and a **Keras implementation**, with experiments to explore key training concepts.
 
 ---
